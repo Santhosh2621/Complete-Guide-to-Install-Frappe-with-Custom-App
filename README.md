@@ -50,7 +50,7 @@ Complete Guide to Install Frappe version 14 in Ubuntu 22.04 LTS
 
 ### STEP 2 install python-dev
 
-    sudo apt-get install python3-dev
+    sudo apt-get install python3-dev  
 
 ### STEP 3 Install setuptools and pip (Python's Package Manager).
 

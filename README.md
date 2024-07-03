@@ -1,5 +1,5 @@
 # Install-Frappe-Version-v14-in-Ubuntu-22.04-LTS
-Complete Guide to Install Frappe version 14 and 15 in Ubuntu 22.04 LTS
+Complete Guide to Install Frappe version 14 in Ubuntu 22.04 LTS
 
 ### Pre-requisites 
 
